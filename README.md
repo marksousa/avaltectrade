@@ -6,8 +6,8 @@ Siga os passos abaixo para instalar e executar o projeto localmente:
 
 ### 1. Clone o repositório
 ```bash
-git clone <url-do-repositorio>
-cd <nome-da-pasta-do-projeto>
+git clone https://github.com/marksousa/avaltectrade.git
+cd tradeup
 ```
 
 ### 2. Copie o arquivo de ambiente
@@ -58,10 +58,6 @@ Abra o navegador em [http://localhost:8000](http://localhost:8000)
 
 ### 11. Rodando os testes
 Para rodar os testes automatizados:
-```bash
-pest
-```
-Ou:
 ```bash
 ./vendor/bin/pest
 ```
