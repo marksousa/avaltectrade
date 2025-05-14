@@ -1,5 +1,9 @@
 # Consulta de CEP - Laravel + Vue + Inertia
 
+![Tela de Boas-vindas](docs/img/home.png)
+![Tela de Consulta de CEP](docs/img/form.png)
+![Tela de Resultado da Consulta](docs/img/result.png)
+
 ## Como rodar o projeto
 
 Siga os passos abaixo para instalar e executar o projeto localmente:
