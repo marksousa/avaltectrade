@@ -36,6 +36,6 @@ return [
     ],
 
     'viacep' => [
-        'url' => env('VIA_CEP_URL'),
+        'url' => env('VIA_CEP_URL', 'https://viacep.com.br/ws/'),
     ],
 ];
