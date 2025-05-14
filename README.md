@@ -7,7 +7,7 @@ Siga os passos abaixo para instalar e executar o projeto localmente:
 ### 1. Clone o repositório
 ```bash
 git clone https://github.com/marksousa/avaltectrade.git
-cd tradeup
+cd avaltectrade
 ```
 
 ### 2. Copie o arquivo de ambiente
@@ -31,7 +31,7 @@ php artisan key:generate
 ```
 
 ### 6. (Opcional) Configure o banco de dados
-Se não for usar banco de dados, pode pular este passo. Caso queira usar, configure as variáveis no `.env` e rode:
+Esse projeto nao usa BD, pode pular este passo. Caso queira usar, configure as variáveis no `.env` e rode:
 ```bash
 php artisan migrate
 ```
